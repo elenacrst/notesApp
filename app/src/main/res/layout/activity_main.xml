@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#011a2f"
+    tools:context="elena.notesapp.MainActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:weightSum="20"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="0dp" />
+    <TextView
+        android:text="Your Notes"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="2"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:textColor="#e6df44"
+        android:id="@+id/textView" />
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="0dp" />
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/listView"
+        android:layout_weight="10"
+        android:layout_gravity="center"
+         />
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_weight="2"
+        android:layout_height="0dp" />
+    <Button
+        android:text=" + "
+        android:gravity="center_vertical"
+        android:textStyle="bold"
+        android:textSize="35dp"
+        android:layout_weight="2"
+        android:layout_width="90dp"
+        android:layout_height="0dp"
+        android:background="#e6df44"
+        android:textColor="#011a2f"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/button"
+        android:textAlignment="center"
+
+        />
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="0dp" />
+
+
+
+</LinearLayout>
+
+</RelativeLayout>

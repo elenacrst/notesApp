@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fa580ce17be0a0acbd2fdca19a7b7cd195c5b9a8">
+        <dex dex="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4554639f208f22a5c0e2f048dfd2b157fa3e3485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_d49c1521c4598ceb7b3bf0de74b8658dea4fb5d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_559b81167e1fb41d988e142e7844d089ef54574c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darkyow\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_2771a3ee1cb80a3931674a9731c2ba71d3ad1126\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_cb89aa8c2fcb20d962905605a3e1cac52ab38dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_24e81b8f5c58991e8a3383422c783f0e0bc70213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cd86a0f823c9c865a4915cd058566187babb97c5">
+        <dex dex="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_98678df84d1658e5d9d52b82bbc7ef6aab87b834\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Darkyow\Desktop\android\NotesApp2 tot functional\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_13a052f69fb1baa2a6587b4af5f5ee2448ee2243\classes.dex" />
+    </item>
+
+</items>
