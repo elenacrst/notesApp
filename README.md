@@ -6,3 +6,6 @@ the notes are stored and the user won't lose data.
 ![](http://i.imgur.com/70GPrbq.jpg "Notes list")
 
 ![](http://i.imgur.com/COaqmPk.jpg "Edit note")
+
+
+Covered chapters: layout, text view, button, edit text, image view, array list, shared preferences, listeners, intents, adapters, context.
